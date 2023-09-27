@@ -39,4 +39,6 @@ The following test methods have been developed:
    - Method: `testCreateApple()`
 
 ***Make sure that `ItemManifest.csv` is in the same directory as the Java files if cloning/downloading to local machine.
+**** Made a mistake when pushing the project into github and missed the src folder where the java files should reside. Code should still run as expected.
+
 
